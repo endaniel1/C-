@@ -11,7 +11,7 @@ namespace Presentacio5
 		static void Main (string[] args)
 		{
 			clsEmpleados empleado;
-			empleado = new clsEmpleados ();
+			empleado = new clsEmpleados ();// se crea una nueva instancia de la clases clsEmpleados
 			empleado.Edad = 20;
 			empleado.Nombre="Enrique";
 			empleado.Sueldo_Diario =12.5m;
