@@ -1,0 +1,5 @@
+C:\Users\Rodriguez Mendez\Documents\Enrique\c#\Presentacio5\Presentacio5\bin\Debug\Presentacio5.exe
+C:\Users\Rodriguez Mendez\Documents\Enrique\c#\Presentacio5\Presentacio5\bin\Debug\Presentacio5.pdb
+C:\Users\Rodriguez Mendez\Documents\Enrique\c#\Presentacio5\Presentacio5\obj\x86\Debug\Presentacio5.csprojResolveAssemblyReference.cache
+C:\Users\Rodriguez Mendez\Documents\Enrique\c#\Presentacio5\Presentacio5\obj\x86\Debug\Presentacio5.exe
+C:\Users\Rodriguez Mendez\Documents\Enrique\c#\Presentacio5\Presentacio5\obj\x86\Debug\Presentacio5.pdb
