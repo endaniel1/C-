@@ -1,0 +1,25 @@
+﻿<Properties StartupItem="Presentacion7\Presentacion7.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Presentacion7\Program.cs">
+    <Files>
+      <File FileName="Presentacion7\Program.cs" Line="14" Column="4" />
+      <File FileName="Presentacion7\clsAbsCliente.cs" Line="17" Column="2" />
+      <File FileName="Presentacion7\clsClienteBase.cs" Line="22" Column="11" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Presentacion7" expanded="True">
+            <Node name="Presentacion7" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
