@@ -5,17 +5,16 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace Presentacion7
-{
+{	
 	class Program
 	{
 		public static void Main (string[] args)
 		{
-			clsClienteBase cliente = new clsClienteBase (0,"Enrique","1234","ni idea",3,"04123555187");
+			clsClientoConContasto cliente = new clsClientoConContasto (0,"Enrique","1234","ni idea",3,"04123555187","04123555187","04121594525","enriq_1997@hotmail.com","Miranda","ninguno","ninguno","ni idea","libertador","Aragua","2117");
 
-			Console.Write (cliente.Clave+" "+cliente.Nombre);
-			Console.Write (cliente.TipoReglas);
-			Console.Write (cliente.NumeroContacto);
-			Console.ReadKey ();
+			clsImpresion Impresion = new clsImpresion ();
+
+			Impresion.ImprimeCliente (cliente);
 		}
 	}
 }
